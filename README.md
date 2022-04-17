@@ -15,7 +15,7 @@
   ### 💻 Contact
 
 <a href="mailto:haksae90@gmail.com" target="_blank"><img src="https://img.shields.io/badge/haksae90@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-[![v](https://img.shields.io/badge/StoryBlok-09B3AF?style=flat-square&logo=StoryBlok&logoColor=white)](https://haksae.tistory.com/)
+[![v](https://img.shields.io/badge/TstoryBlog-F7DF1E?style=flat-square&logo=StoryBlok&logoColor=black)](https://haksae.tistory.com/)
 
 </div>
 
